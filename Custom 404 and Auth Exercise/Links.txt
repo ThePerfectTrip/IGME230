@@ -1,5 +1,5 @@
-**auth** - https://people.rit.edu/bl6178/230/auth/myPage.html
+auth - https://people.rit.edu/bl6178/230/auth/myPage.html
 
-**noterror** - https://people.rit.edu/bl6178/230/error/
+noterror - https://people.rit.edu/bl6178/230/error/
 
-**error** - https://people.rit.edu/bl6178/230/error/realnewsfromcnn
+error - https://people.rit.edu/bl6178/230/error/realnewsfromcnn
